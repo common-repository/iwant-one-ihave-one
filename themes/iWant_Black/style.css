@@ -1,0 +1,32 @@
+.wantButton, .haveButton {
+	width: 89px;
+	height: 120px;
+	float:left;
+	background: url('/wp-content/plugins/wantHave/themes/iWant_Black/buttonBG.png') no-repeat;
+	margin-left:15px;
+	color:#000;
+	z-index:66666666;
+}
+.wantLink, .haveLink {
+	font-size:12px;
+	font-weight:bold;
+	text-transform: uppercase;
+	color:#fff;
+	text-align: center;
+	display:block;
+	line-height: 12px;
+	padding-top: 10px;
+	margin-left: -3px;
+	z-index:77777777777;
+}
+.wantCount, .haveCount {
+	font-size: 42px;
+	text-transform: uppercase;
+	color:#fff;
+	text-align: center;
+	display:block;
+	line-height: 42px;
+	padding-top: 3px;
+	margin-left: -3px;
+	z-index:7777777777;
+}
